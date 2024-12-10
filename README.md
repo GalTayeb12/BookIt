@@ -21,4 +21,4 @@ BookiT היא אפליקציה חדשנית בנויה ב-Android Studio בשפ�
 זה הכל! אתה זמין לשימוש בכל הפונקצינליות במערכת.
 
 תמיכה
-אם יש לך שאלות או צרך בעזרה, אל תהסס לפנות אלינו דרך [maksikrutinsky@gmail.com].
+אם יש לך שאלות או צרך בעזרה, אל תהסס לפנות אלינו דרך [gal-ta@windowslive.com][maksikrutinsky@gmail.com].
